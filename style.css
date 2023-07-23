@@ -1,0 +1,24 @@
+body {
+    background-color: #0F0F0F;
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(37, 156, 253);
+    font-size: 1.5rem;
+    padding: 0px 10px;
+    cursor: pointer;
+}
