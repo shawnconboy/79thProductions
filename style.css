@@ -33,7 +33,7 @@ h2 {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    padding-bottom: 10px;
+    padding: 10px;
 }
 
 .items {
@@ -42,4 +42,5 @@ h2 {
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
+    width: 500px;
 }
