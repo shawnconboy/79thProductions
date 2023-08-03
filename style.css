@@ -72,8 +72,10 @@ h2 {
 }
 
 .shopLabel {
+    color: rgb(37, 156, 253);
     padding-bottom: 10px;
     border-bottom: 1px solid black;
+    letter-spacing: .6px;
 }
 
 .shopListItem {
